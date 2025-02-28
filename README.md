@@ -17,9 +17,9 @@ Agora, mergulho no universo da **ciência de dados**, explorando **Python, SQL e
 
 ## 🚀 Explorando novos horizontes:
 
-📌 **Python & SQL** – Manipulação e análise de dados.  
-📌 **Pandas & Data Visualization** – Transformando números em narrativas visuais.  
-📌 **APIs & Web Scraping** – Extraindo e organizando dados de forma inteligente.  
+📌 **Python & SQL (em aprendizado)** – Manipulação e análise de dados.  
+📌 **Pandas & Data Visualization (em aprendizado)** – Transformando números em narrativas visuais.  
+📌 **APIs & Web Scraping (em aprendizado)** – Extraindo e organizando dados de forma inteligente.  
 
 ## 📌 Minhas habilidades:
 
